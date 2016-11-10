@@ -2,7 +2,7 @@
   "name": "jpgraber.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jpgraber.github.io",
+  "homepage": "http://myusername.github.io/tag-graph",
   "devDependencies": {
     "gh-pages": "^0.11.0",
     "react-scripts": "0.7.0"
